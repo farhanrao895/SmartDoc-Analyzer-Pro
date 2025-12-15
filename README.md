@@ -104,7 +104,7 @@ Copy code
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/your-org/smartdoc-analyzer-pro.git
+git clone [https://github.com/your-org/smartdoc-analyzer-pro.git](https://github.com/farhanrao895/SmartDoc-Analyzer-Pro/tree/main)
 cd smartdoc-analyzer-pro
 
 shell
