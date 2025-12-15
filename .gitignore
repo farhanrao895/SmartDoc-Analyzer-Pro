@@ -1,0 +1,8 @@
+.env
+.env.*
+.streamlit/secrets.toml
+
+knowledge_bases/
+*.faiss
+*.pkl
+documents.json
