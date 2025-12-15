@@ -106,7 +106,6 @@ cd smartdoc-analyzer-pro
 ### 2. Create virtual environment
 python -m venv venv
 
-
 venv\Scripts\activate
 
 
