@@ -71,8 +71,7 @@ The system is optimized for **accuracy, traceability, and scalability**, with **
 ├── .gitignore
 └── knowledge_bases/ # Generated locally (NOT committed)
 
-yaml
-Copy code
+
 
 **Important:**  
 `knowledge_bases/` contains indexed document data and must **never** be pushed to GitHub.
@@ -107,38 +106,28 @@ Copy code
 git clone [https://github.com/your-org/smartdoc-analyzer-pro.git](https://github.com/farhanrao895/SmartDoc-Analyzer-Pro/tree/main)
 cd smartdoc-analyzer-pro
 
-shell
-Copy code
 
 ### 2. Create virtual environment
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
 
-shell
-Copy code
 
 ### 3. Install dependencies
 pip install -r requirements.txt
 
-pgsql
-Copy code
 
 ### 4. Set environment variables
 Create a `.env` file (do **not** commit it):
 
 OPENAI_API_KEY=your_api_key_here
 
-yaml
-Copy code
 
 ---
 
 ## Run the Application
 
-streamlit run main.py
+streamlit run app.py
 
-yaml
-Copy code
 
 ---
 
