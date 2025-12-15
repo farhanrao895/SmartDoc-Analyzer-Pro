@@ -73,8 +73,6 @@ The system is optimized for **accuracy, traceability, and scalability**, with **
 
 
 
-**Important:**  
-`knowledge_bases/` contains indexed document data and must **never** be pushed to GitHub.
 
 ---
 
@@ -95,8 +93,6 @@ knowledge_bases/
 *.pkl
 documents.json
 
-yaml
-Copy code
 
 ---
 
