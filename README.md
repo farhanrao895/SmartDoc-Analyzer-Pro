@@ -168,14 +168,6 @@ Each answer includes **fully traceable sources**.
 
 ---
 
-## Limitations
-
-- Knowledge bases are local to the machine
-- Large datasets require sufficient RAM
-- OCR accuracy depends on scan quality
-
----
-
 ## Roadmap (Optional)
 
 - Role-based authentication
